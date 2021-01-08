@@ -1,8 +1,12 @@
 h1 {
     color: white;
+    background-color: lightblue;
 }
-
 
 body {
     background-image: url("backgroundimage.jpg");
+}
+
+.form-label {
+    color: white;
 }
